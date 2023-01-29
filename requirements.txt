@@ -2,5 +2,12 @@ piccolo
 piccolo_admin
 piccolo_api
 fastapi
+fastapi-utils
 uvicorn
 python-jose
+rich
+pysocks
+requests
+loguru
+requests-html
+courlan
